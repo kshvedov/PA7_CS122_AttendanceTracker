@@ -1,0 +1,6 @@
+﻿  Menu.cpp
+c:\users\kaotixs\documents\visual studio 2017\projects\pa7_s2_k_shvedov\pa7_s2_k_shvedov\menu.cpp(313): warning C4101: 'newNode': unreferenced local variable
+c:\users\kaotixs\documents\visual studio 2017\projects\pa7_s2_k_shvedov\pa7_s2_k_shvedov\menu.cpp(356): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\time.h(505): note: see declaration of 'localtime'
+  PA7_S2_K_Shvedov.vcxproj -> C:\Users\Kaotixs\Documents\Visual Studio 2017\Projects\PA7_S2_K_Shvedov\Debug\PA7_S2_K_Shvedov.exe
+  PA7_S2_K_Shvedov.vcxproj -> C:\Users\Kaotixs\Documents\Visual Studio 2017\Projects\PA7_S2_K_Shvedov\Debug\PA7_S2_K_Shvedov.pdb (Partial PDB)

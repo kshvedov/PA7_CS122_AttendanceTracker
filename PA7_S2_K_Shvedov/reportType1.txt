@@ -1,0 +1,11 @@
+Last,First,#Absences,Latest absence
+Smith,John,7,2017/10/11
+Beck,Sara,1,2017/11/11
+Leinart,Timothy,2,2017/11/11
+Art,Bruce,0,
+James,Hannah,0,
+Payton,Ella,1,2017/09/21
+Sam,Theo,0,
+Smith,Jane,3,2017/07/04
+Willis,Bruce,0,
+Mort,Kris,2,2017/11/11
