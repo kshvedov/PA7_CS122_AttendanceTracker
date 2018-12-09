@@ -12,6 +12,7 @@ The program can do six things:
 5. Edit absences
 6. Generate report
 
+Details about each one:
 1. This action will import information about students into a list from a CSV file
 2. This action will import information about students into a list with all the
    information about there absences
